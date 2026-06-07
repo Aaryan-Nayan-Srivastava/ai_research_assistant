@@ -200,4 +200,16 @@ uvicorn app.main:app --reload
 
 ---
 
+## Swagger UI
 
+### Swagger Home
+
+![Swagger Home](images/swagger-home.png)
+
+### Health Endpoint
+
+![Health Endpoint](images/health-endpoint.png)
+
+### Research Endpoint
+
+![Research Endpoint](images/research-endpoint.png)
